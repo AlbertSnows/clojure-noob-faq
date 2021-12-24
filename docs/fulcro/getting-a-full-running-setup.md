@@ -1,7 +1,3 @@
-= Disclaimer
-
-Refer to the parent repo for info about fulcro rad.
-
 == Useful info
 
 `yarn` to install
