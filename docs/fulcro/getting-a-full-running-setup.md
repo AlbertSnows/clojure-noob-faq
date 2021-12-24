@@ -1,7 +1,7 @@
-== What's this?
+# What's this?
 This is how I get a fulcro setup running after cloning from the repo.
 
-== Useful info
+# Useful info
 
 `yarn` to install
 
