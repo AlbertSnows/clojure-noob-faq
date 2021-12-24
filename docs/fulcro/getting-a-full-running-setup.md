@@ -14,7 +14,7 @@ set up repl config
 
 e.g.
 
-image::docs/clj-setup.png[]
+![clj-setup](img/clj-setup.png)
 
 (-Ddev is just for intellij according to Tony in a vid on his YT channel)
 
@@ -24,7 +24,7 @@ fix repl complaints when you try to switch to development file (I removed them, 
 
 e.g.
 
-image::docs/try-req-ns.png[]
+![try-req-ns](img/try-req-ns.png)
 
 import the namespace => `(require 'development)`
 
@@ -40,14 +40,15 @@ run it to gain access to cljs files and the localhost stuff
 
 config:
 
-image::docs/nrepl-setup.png[]
+![nrepl-setup](img/nrepl-setup.png)
 
 repl command:
 
-image::resources/public/images/helpful/run-nrepl.PNG[]
+![run-nrepl](img/run-nrepl.png)
 
 you can run things in the browser, so that's pretty cool I guess
 
 image::docs/alert-in-browser.png[]
+![alert-in-browser](img/alert-in-browser.png)
 
 have fun!
